@@ -43,9 +43,9 @@
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=vito-sudo&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="210" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="314" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tatobrito&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tatobrito&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vito-sudo&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="314" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vito-sudo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vito-sudo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
   
 </div>
 
@@ -58,5 +58,5 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-  [![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Vito-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
